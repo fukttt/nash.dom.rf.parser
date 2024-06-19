@@ -1,0 +1,2 @@
+scrapy-fingerprint==1.0
+Scrapy==2.11.2
